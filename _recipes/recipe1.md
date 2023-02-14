@@ -5,7 +5,7 @@ order: 2
 layout: recipe
 published: true
 ---
-
+The Muffin Man has shared his top secret recipe and now we can all make our very own gingey's! These gingerbread men may have sme secre magic within!
 
 ![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/gingerbread.webp "Photo by Joseph Smart")
 
