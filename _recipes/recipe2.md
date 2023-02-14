@@ -5,28 +5,24 @@ order: 1
 layout: recipe
 published: true
 ---
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ## Ingredients
 
-- prehenderit deserunt veniam sunt et. 
-- Nulla ea est commodo minim quis. 
-- Amet cillum mollit cupidatat sunt tempor qui quis sunt ipsum.
+* 250g [plain flour,](https://www.bbcgoodfood.com/glossary/flour-glossary) plus extra for dusting
+* 125g butter, chilled and diced, plus extra for the tin
+* 1 medium
+* 1 vanilla pod, seeds scraped (optional)
+* 100g jam, fruit curd or marmalade of your choice
 
 ## Method
 
-Veniam culpa ea cillum est qui ullamco velit esse labore. Proident aute irure dolore aliqua dolor reprehenderit duis enim eiusmod. Magna voluptate fugiat nulla sunt nostrud sit. Sit cupidatat cillum culpa sint ex eu.
+* STEP 1
 
-Ullamco ullamco voluptate et nostrud aliquip nostrud cillum laboris qui ipsum cillum ad irure. Enim sunt proident cillum consectetur velit nostrud aliquip excepteur consequat officia laboris. Aute est qui exercitation voluptate irure dolor reprehenderit id laborum proident. Lorem eu proident est duis irure non est nostrud.
+  Put the flour, butter and a pinch of salt in a bowl and rub them together with your fingertips (or you can pulse these ingredients together in a [food processor](https://www.bbcgoodfood.com/review/best-food-processors)if you have one). When the mixture looks and feels like fresh breadcrumbs, stir in the egg and vanilla seeds, if using, with a cutlery knife. Add 1 tbsp cold water, then start to bring the dough together in one lump with your hands – try not to knead it too much. Add 1 more tbsp of water if it’s not coming together, but try not to add more than that. Wrap in cling film and chill in the fridge for 30 mins.
+* STEP 2
 
-Dolore commodo consequat proident adipisicing consectetur ut consequat et enim quis non excepteur cupidatat. Nostrud eiusmod aute proident in ex cupidatat enim. Nulla aliquip mollit incididunt aliqua velit do nisi. Ullamco magna ad culpa dolor sint mollit.
+  Heat oven to 200C/180C fan/gas 6. Butter a 12-hole tart tin, then dust your work surface with flour. Unwrap and roll out the chilled pastry so it’s about the thickness of a £1 coin, then use a straight or fluted round cutter to cut out 12 circles, big enough to line the holes in the tin. Dollop 1-2 tsp of your chosen filling into each one and, if you like, cut out little pastry hearts (perfect for Valentine's Day) and pop them on top.
+* STEP 3
 
-Ullamco esse Lorem nostrud consectetur elit. Veniam do excepteur exercitation adipisicing aliquip pariatur aliqua tempor minim. Nisi aute ut elit ut labore esse amet veniam ad sint ullamco minim est. Amet id non velit quis sit aliquip reprehenderit nisi ipsum pariatur sint enim reprehenderit. Qui id proident Lorem duis do nulla enim laboris commodo eu in enim esse.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-- Serves 10
-- Cooking time 3 hours 
+  Bake for 15-18 mins or until golden and the filling is starting to bubble a little. Leave to cool in the tin for a few mins then carefully transfer to a wire rack to cool completely.
