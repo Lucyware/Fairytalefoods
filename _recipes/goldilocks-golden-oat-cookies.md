@@ -4,6 +4,10 @@ date: 2023-02-07T13:15:23.685Z
 order: 3
 layout: recipe
 ---
+Goldylocks has become the queen of the porridge ats and has developed these new fabulous golden porridge oat cokkies that will bring the bears running to your door.
+
+![](../uploads/oat_biscuits.webp)
+
 ## Ingredients
 
 * 75g [wholemeal flour](https://www.bbcgoodfood.com/glossary/flour-glossary)
@@ -13,8 +17,6 @@ layout: recipe
 * 75g [butter](https://www.bbcgoodfood.com/glossary/butter-glossary)
 * 1 tbsp [golden syrup](https://www.bbcgoodfood.com/glossary/golden-syrup-glossary)
 * 2 tbsp [milk](https://www.bbcgoodfood.com/glossary/milk-glossary)
-
-
 
 ### Method
 
