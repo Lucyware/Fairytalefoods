@@ -5,7 +5,7 @@ order: 1
 layout: recipe
 published: true
 ---
-
+![](../uploads/jam-tarts.webp)
 
 ## Ingredients
 
