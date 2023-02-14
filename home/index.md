@@ -1,6 +1,6 @@
 ---
 title: Fairy Tale Foods
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/fairytale-foods-cover.jpg
 permalink: /
 layout: recipeshome
 published: true
