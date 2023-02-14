@@ -5,9 +5,9 @@ order: 2
 layout: recipe
 published: true
 ---
-Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
+
+![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/gingerbread.webp "Photo by Joseph Smart")
 
 ## Ingredients
 
@@ -18,17 +18,13 @@ Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation 
 * Cinnamon 
 * 75g unsalted butter
 * 100g soft brown sugar
-* 100g golden syrup Method
+* 100g golden syrup
 
 ## Method
 
-Occaecat nulla proident do aute non amet cillum et enim. Non in commodo consequat minim. Id excepteur adipisicing cillum minim Lorem anim est eiusmod incididunt. Consectetur nostrud pariatur amet enim dolore labore deserunt tempor magna fugiat dolor veniam anim. Ut ex sit ullamco ullamco magna aliqua cupidatat ullamco adipisicing tempor. Cupidatat fugiat in consectetur quis sunt laboris qui veniam sunt id deserunt minim.
+* STEP 1
 
-Laborum dolore minim veniam excepteur aliquip aliqua mollit minim id exercitation ipsum. Quis sint qui enim labore amet irure culpa eiusmod ullamco amet minim aliquip ut eiusmod. Qui Lorem dolore labore esse reprehenderit cillum reprehenderit.
+  Heat oven to 190C/170C fan/gas 5 and line a [baking tray](https://www.bbcgoodfood.com/content/kimberley-wilsons-top-5-baking-trays) with baking parchment. Sieve the flour, salt, bicarb, ginger and cinnamon into a large bowl. Heat the butter, sugar and syrup until dissolved. Leave the sugar mixture to cool slightly, then mix into the dry ingredients to form a dough. Chill the dough in the fridge for 30 mins.
+* STEP 2
 
-Do elit laboris irure pariatur nostrud officia. Proident anim amet officia irure occaecat aliqua nisi ex. Non minim excepteur consectetur mollit aliquip ad occaecat est velit. Enim laboris mollit reprehenderit cupidatat voluptate ipsum aliquip nostrud deserunt amet. Qui aliquip deserunt commodo pariatur qui anim. Aliquip excepteur reprehenderit in sint enim Lorem non Lorem pariatur adipisicing dolore ullamco incididunt ullamco.
-
-Cupidatat nostrud excepteur sunt exercitation excepteur dolor adipisicing. Aliqua et commodo do duis fugiat non consequat duis. Esse velit velit sit aute voluptate exercitation cupidatat velit cupidatat duis culpa non duis deserunt. Non voluptate et ea incididunt elit irure eu irure ullamco ea Lorem tempor. Veniam sint irure reprehenderit mollit nisi amet fugiat nulla duis. Nulla nostrud sint reprehenderit est enim dolore ipsum. Sint eu anim excepteur consectetur ipsum.
-
-* Serves: 6
-* Preparation time: 1 hour
+  On a surface lightly dusted with flour, roll out the dough to a ¼-inch thickness. Stamp out the gingerbread men shapes with a cutter, then re-roll any off-cuts and repeat. Place your gingerbread shapes on the lined trays, allowing space for them to spread. Cook for 10-15 mins, then remove from the oven and leave to cool.
