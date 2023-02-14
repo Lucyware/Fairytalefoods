@@ -4,7 +4,11 @@ date: 2023-02-07T12:56:51.698Z
 order: 4
 layout: recipe
 ---
-### For the filling
+![](../uploads/apple-pie.webp)
+
+### Ingredients
+
+#### For the filling
 
 * 1kg [Bramley apples](https://www.bbcgoodfood.com/glossary/bramley-apple-glossary)
 * 140g [golden caster sugar](https://www.bbcgoodfood.com/glossary/sugar-glossary)
@@ -18,8 +22,6 @@ layout: recipe
 * 2 [eggs](https://www.bbcgoodfood.com/glossary/egg-glossary)
 * 350g [plain flour,](https://www.bbcgoodfood.com/glossary/flour-glossary) preferably organic
 * [softly whipped cream,](https://www.bbcgoodfood.com/glossary/cream-glossary) to serve
-
-
 
 ### Method
 
