@@ -23,7 +23,7 @@ body{
 }
 
 h1 {
-  color: solid white;
+  color: black;
   margin-bottom: 12px;
   margin-top: 12px;
   text-align: center;
@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  color: rgb(42, 84, 42);
+  color: black(42, 84, 42);
   margin: 0 0 12px 0;
   text-align: center;
 }
@@ -85,4 +85,35 @@ button a {
   font-family:cursive;
   font-size:x-large;
   color: black;
+}
+
+@media screen and {max-width: 700px;}{
+
+  nav {
+    margin: 0;
+    position: static;
+    width: 100%;
+  }
+
+  nav ul {
+    font-size: 1rem;
+  }
+
+  main {
+    width: 100%;
+  }
+
+}
+
+.recipe-teaser{
+  border: 1px solid white;
+  padding: 1em;
+  flex-basis: 300px;
+  
+}
+
+.list{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
