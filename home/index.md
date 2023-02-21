@@ -8,4 +8,4 @@ date: 2023-01-31T14:50:16.624Z
 ---
 Welcome to Fairy Tale Foods
 
-These magical recipes will transport you into your favourite fairytales,
+These magical recipes will transport you into your favourite Fairy Tales, encoporating Fairy Tale foods and chracters into these delicous tasty treats.
