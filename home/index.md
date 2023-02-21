@@ -1,6 +1,6 @@
 ---
 title: Fairy Tale Foods
-coverimage: ../uploads/add-a-little-bit-of-body-text.png
+coverimage: ../uploads/add-a-little-bit-of-body-text-2.png
 permalink: /
 layout: recipeshome
 published: true
