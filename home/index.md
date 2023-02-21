@@ -6,8 +6,7 @@ layout: recipeshome
 published: true
 date: 2023-01-31T14:50:16.624Z
 ---
-
-Here is an introduction to my recipe site
+WELCOME TO FAIRY TALE FOODS
 
 You should use **markdown** to write this text and this will automatically be converted to `HTML`.
 
