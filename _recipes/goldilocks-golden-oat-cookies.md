@@ -4,7 +4,7 @@ date: 2023-02-07T13:15:23.685Z
 order: 3
 layout: recipe
 ---
-Goldylocks has become the queen of the porridge ats and has developed these new fabulous golden porridge oat cokkies that will bring the bears running to your door.
+Goldylocks as we all know has a love for porridge, and has invented these new fabulous golden porridge oat cookies that will bring the bears running to your door.
 
 ![](../uploads/oat_biscuits.webp)
 
