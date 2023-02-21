@@ -5,7 +5,7 @@ order: 1
 layout: recipe
 published: true
 ---
-This is the royal recipe itself 
+This is the royal recipe from the Queen of Heart herself, stolen by Alice on her Last trip to Wonderland.
 
 ![](../uploads/jam-tarts.webp)
 
