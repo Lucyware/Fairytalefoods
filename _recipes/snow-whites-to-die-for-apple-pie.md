@@ -4,9 +4,7 @@ date: 2023-02-07T12:56:51.698Z
 order: 4
 layout: recipe
 ---
-Snow White promises no curse will come from the maiking of this recipe.
-
-
+Snow White promises no curse will come from the maiking and consuming of this recipe.
 
 ![](../uploads/apple-pie.webp)
 
