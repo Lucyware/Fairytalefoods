@@ -4,24 +4,28 @@ date: 2023-02-07T12:56:51.698Z
 order: 4
 layout: recipe
 ---
+Snow White promises no curse will come from the maiking of this recipe.
+
+
+
 ![](../uploads/apple-pie.webp)
 
 ### Ingredients
 
 #### For the filling
 
-* 1kg [Bramley apples](https://www.bbcgoodfood.com/glossary/bramley-apple-glossary)
-* 140g [golden caster sugar](https://www.bbcgoodfood.com/glossary/sugar-glossary)
-* ½ tsp [cinnamon](https://www.bbcgoodfood.com/glossary/cinnamon-glossary)
-* 3 tbsp [flour](https://www.bbcgoodfood.com/glossary/flour-glossary)
+* 1kg Bramley apples[](https://www.bbcgoodfood.com/glossary/bramley-apple-glossary)
+* 140g golden caster sugar
+* ½ tsp cinnamon
+* 3 tbsp flour
 
 ### For the pastry
 
-* 225g [butter,](https://www.bbcgoodfood.com/glossary/butter-glossary) room temperature
-* 50g [golden caster sugar,](https://www.bbcgoodfood.com/glossary/sugar-glossary) plus extra
-* 2 [eggs](https://www.bbcgoodfood.com/glossary/egg-glossary)
-* 350g [plain flour,](https://www.bbcgoodfood.com/glossary/flour-glossary) preferably organic
-* [softly whipped cream,](https://www.bbcgoodfood.com/glossary/cream-glossary) to serve
+* 225g butter[,](https://www.bbcgoodfood.com/glossary/butter-glossary) room temperature
+* 50g golden caster sugar[,](https://www.bbcgoodfood.com/glossary/sugar-glossary) plus extra
+* 2 eggs
+* 350g plain flour[,](https://www.bbcgoodfood.com/glossary/flour-glossary) preferably organic
+* soflty whipped cream[,](https://www.bbcgoodfood.com/glossary/cream-glossary) to serve
 
 ### Method
 
