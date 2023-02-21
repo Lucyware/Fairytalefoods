@@ -1,5 +1,5 @@
 ---
-title: Goldilocks Golden Oat Biscuits
+title: Goldylocks Golden Oat Biscuits
 date: 2023-02-07T13:15:23.685Z
 order: 3
 layout: recipe
