@@ -1,5 +1,6 @@
 /*! CSS bare bones for recipes site */
 
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -135,4 +136,9 @@ button a {
 
   text-decoration: none;
   color: darkolivegreen;
+}
+
+.site-title a {
+  text-decoration: none;
+  color: black;
 }
