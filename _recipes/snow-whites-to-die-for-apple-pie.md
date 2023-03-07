@@ -19,8 +19,8 @@ Snow White promises no curse will come from the maiking and consuming of this re
 
 ### For the pastry
 
-* 225g butter[,](https://www.bbcgoodfood.com/glossary/butter-glossary) room temperature
-* 50g golden caster sugar[,](https://www.bbcgoodfood.com/glossary/sugar-glossary) plus extra
+* 225g butter, room temperature
+* 50g golden caster sugar, plus extra
 * 2 eggs
 * 350g plain flour[,](https://www.bbcgoodfood.com/glossary/flour-glossary) preferably organic
 * soflty whipped cream[,](https://www.bbcgoodfood.com/glossary/cream-glossary) to serve
