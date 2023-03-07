@@ -46,7 +46,7 @@ p {
 main {
   width: 73%;
   max-width: 980px;
-  border: 10px 10px; px solid rgb(255, 255, 255);
+  border: 10px 10px;
   padding: 30px 30px; 
   margin: 0 auto;
   background-color: white;
@@ -87,7 +87,16 @@ button a {
   color: black;
 }
 
-@media screen and {max-width: 700px;}{
+@media screen and (max-width: 700px) {
+  main {
+    width: 100%;
+    max-width: 850px;
+    padding: 1em;
+    margin: 0 auto;
+  }
+}
+
+
 
   nav {
     margin: 0;
@@ -103,6 +112,10 @@ button a {
     width: 100%;
   }
 
+.list {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .recipe-teaser{
@@ -111,4 +124,3 @@ button a {
   flex-basis: 300px;
   
 }
-
